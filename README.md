@@ -21,3 +21,26 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+
+## Testing
+
+```bash
+npm test
+```
+
+or 
+
+```bash
+npm run t
+```
+
+
+## Deployment
+
+```bash
+npm run build
+```
+
+Then, deploy the contents of the `out` directory to your server.
+
